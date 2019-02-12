@@ -1,2 +1,2 @@
 # TABI-P-nd
-The TABI for Poisson equation, it is a version for solving the surface normal derivative instead of surface potential, based on which we can calculate the force between dielectric bodies.
+TABI-P-nd stands for the TABI for Poisson equation (-P), it is a version for solving the surface normal derivative (-nd) instead of surface potential, based on the normal derivative we can calculate the force between dielectric bodies.
